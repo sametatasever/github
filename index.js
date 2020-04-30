@@ -1,2 +1,2 @@
-// Selam
+// Selamlar
 // Yeni branch gecildi
